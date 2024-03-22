@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9220c609-9e3d-468a-b25e-0695287dc612" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem01.java" afterDir="false" />
-    </list>
+    <list default="true" id="9220c609-9e3d-468a-b25e-0695287dc612" name="Changes" comment="Added four Java classes and methods for each of the To Dos.(Linear Search, Binary Search, Bubble Sort, and a sum of primes method.) Filled in all 4 methods with code get the correct output. Wrote comments explaining space and time complexity of the algorithms." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +55,43 @@
       <updated>1711054138737</updated>
       <workItem from="1711054139795" duration="3800000" />
       <workItem from="1711067909383" duration="5000" />
-      <workItem from="1711123537328" duration="12921000" />
+      <workItem from="1711123537328" duration="13210000" />
     </task>
+    <task id="LOCAL-00001" summary="Added four Java classes and methods for each of the To Dos.(Linear Search, Binary Search, Bubble Sort, and a sum of primes method.) Filled in all 4 methods with code get the correct output. Wrote comments explaining space and time complexity of the algorithms.">
+      <option name="closed" value="true" />
+      <created>1711141666158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711141666158</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added four Java classes and methods for each of the To Dos.(Linear Search, Binary Search, Bubble Sort, and a sum of primes method.) Filled in all 4 methods with code get the correct output. Wrote comments explaining space and time complexity of the algorithms.">
+      <option name="closed" value="true" />
+      <created>1711141741053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711141741053</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added four Java classes and methods for each of the To Dos.(Linear Search, Binary Search, Bubble Sort, and a sum of primes method.) Filled in all 4 methods with code get the correct output. Wrote comments explaining space and time complexity of the algorithms." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added four Java classes and methods for each of the To Dos.(Linear Search, Binary Search, Bubble Sort, and a sum of primes method.) Filled in all 4 methods with code get the correct output. Wrote comments explaining space and time complexity of the algorithms." />
   </component>
 </project>
